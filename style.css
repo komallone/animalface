@@ -1,5 +1,5 @@
 body {
-  font-family: 'Roman', sans-serif;
+  font-family: 'Jua', sans-serif;
   background-color: #ffffff;
   box-sizing: border-box;
   color: #35465d;
@@ -469,7 +469,6 @@ input:checked + label > .knob > i:before {
   left: 0px;
   transform: rotate(134deg);
 }
-
 
 .ad-banner {
     max-width: 320px;
