@@ -666,6 +666,7 @@ input:checked + label > .knob > i:before {
 }
 
 .ad-banner {
-    max-width: 320px;
+    max-width: 100px;
+	margin: 0 auto;
 }
 
