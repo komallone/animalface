@@ -131,7 +131,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .title {
-  font-size: 40px;
+  font-size: 20px;
   font-weight: 700;
   color: #fff;
   line-height: 88px;
@@ -935,5 +935,6 @@ input:checked + label > .knob > i:before {
 
 .ad-banner {
     max-width: 320px;
+	margin: 0 auto;
 }
 /****/
